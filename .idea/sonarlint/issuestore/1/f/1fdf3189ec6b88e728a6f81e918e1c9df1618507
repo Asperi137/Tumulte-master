@@ -1,0 +1,23 @@
+
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(••í¶ùÿÿÿÿ
+b
+java:S1192o"GDefine a constant instead of duplicating this literal "Erreur" 8 times.(ûê‹ıÿÿÿÿ
+‹
+java:S1319."pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÊŞ¹ûÿÿÿÿ
+i
+java:S2095B"NUse try-with-resources or close this "LineNumberReader" in a "finally" clause.(äÏÑÃúÿÿÿÿ
+^
+java:S2095?"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Í·ù
+j
+java:S2095“"NUse try-with-resources or close this "LineNumberReader" in a "finally" clause.(äÏÑÃúÿÿÿÿ
+_
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Í·ù
+k
+java:S3655#"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŸªÍäùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(õŒøÿÿÿÿ
+B
+java:S1168ƒ"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168Ã"+Return an empty collection instead of null.(¥¹ï
